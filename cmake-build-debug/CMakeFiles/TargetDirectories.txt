@@ -1,3 +1,0 @@
-/media/tsar_nosferatu/Development/Programming/C++/_practice/_add_remove_functionality/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/tsar_nosferatu/Development/Programming/C++/_practice/_add_remove_functionality/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/tsar_nosferatu/Development/Programming/C++/_practice/_add_remove_functionality/cmake-build-debug/CMakeFiles/_display_and_add_numbers.dir
