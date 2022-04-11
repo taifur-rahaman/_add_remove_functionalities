@@ -22,7 +22,7 @@ int main() {
 
     cout <<
          "1 - Print Numbers\n"
-         "2 - Add a numbers\n"
+         "2 - Add a Number\n"
          "3 - Display mean of the numbers\n"
          "4 - Display the smallest number\n"
          "5 - Display the largest number\n"
